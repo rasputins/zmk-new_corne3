@@ -107,7 +107,7 @@
 &mt LEFT_ALT GRAVE  &kp NUMBER_1   &kp NUMBER_2               &kp NUMBER_3                &kp NUMBER_4     &kp NUMBER_5                      &trans          &kp NUMBER_6     &kp NUMBER_7          &kp NUMBER_8              &kp NUMBER_9               &kp NUMBER_0  &kp MINUS
 &trans              &kp BACKSLASH  &mt LEFT_ALT LEFT_BRACKET  &mt LEFT_WIN RIGHT_BRACKET  &mt LCTRL EQUAL  &mt LSHFT PLUS            &trans  &trans  &trans  &mt RSHFT MINUS  &mt RCTRL UNDERSCORE  &mt RIGHT_GUI LEFT_BRACE  &mt RIGHT_ALT RIGHT_BRACE  &trans        &trans
 &trans              &kp PIPE       &kp LEFT_PARENTHESIS       &kp RIGHT_PARENTHESIS       &kp UNDERSCORE   &kp MINUS       &trans            &trans          &kp A            &kp A                 &trans                    &trans                     &trans        &trans
-                                                              &trans                      &tog 1           &trans                                            &trans           &trans                &trans
+                                                              &trans                      &mo 1            &trans                                            &trans           &trans                &trans
             >;
         };
 
@@ -116,7 +116,7 @@
 &kp F12           &kp F1  &kp F2    &kp F3    &kp F4     &kp F5                       &trans          &kp F6    &kp F7         &kp F8       &kp F9     &kp F10          &kp F11
 &mt LSHFT ESCAPE  &trans  &kp LALT  &kp LGUI  &kp LCTRL  &kp LSHFT            &trans  &trans  &trans  &kp LEFT  &kp DOWN       &kp UP       &kp RIGHT  &kp INSERT       &kp C_MENU
 &kp LSHFT         &trans  &trans    &trans    &trans     &trans     &trans            &trans          &kp HOME  &kp PAGE_DOWN  &kp PAGE_UP  &kp END    &kp PRINTSCREEN  &mt RSHFT ENTER
-                                    &trans    &trans     &trans                                       &trans    &tog 1         &trans
+                                    &trans    &trans     &trans                                       &trans    &mo 1          &trans
             >;
         };
 
