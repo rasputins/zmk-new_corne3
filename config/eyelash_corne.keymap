@@ -95,7 +95,7 @@
 
         home {
             bindings = <
-&trans  &trans  &trans          &trans      &trans       &trans                         &trans          &trans       &trans       &trans       &trans           &trans  &trans
+&trans  &kp N1  &trans          &trans      &trans       &trans                         &trans          &trans       &trans       &trans       &trans           &trans  &trans
 &trans  &trans  &mt LEFT_ALT S  &mt LGUI D  &mt LCTRL F  &mt LSHFT G            &trans  &trans  &trans  &mt RSHFT H  &mt RCTRL K  &mt RMETA K  &mt RIGHT_ALT L  &trans  &trans
 &trans  &trans  &trans          &trans      &trans       &trans       &trans            &trans          &trans       &trans       &trans       &trans           &trans  &trans
                                 &trans      &trans       &trans                                         &trans       &trans       &trans
